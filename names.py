@@ -1,0 +1,1 @@
+print(" Names of my friends are: Aarzoo, Aryan, Megha, Yashi, Vishal, Arham ")
