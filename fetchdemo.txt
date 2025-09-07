@@ -1,1 +1,3 @@
 created it just for understanding fetch command
+its just for fun
+making changes for diff command
